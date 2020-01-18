@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117266937226",
+    "firebase_url": "https://explore-karachi.firebaseio.com",
+    "project_id": "explore-karachi",
+    "storage_bucket": "explore-karachi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117266937226:android:fcbf090c1a11103411c473",
+        "android_client_info": {
+          "package_name": "com.example.explorekarachi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117266937226-7ju6hmvjr5hgv7lu3p6rssudr9fbb5d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.explorekarachi",
+            "certificate_hash": "d2be56b74991d2884d9d64b3a240e9331b0aa560"
+          }
+        },
+        {
+          "client_id": "117266937226-jkquqibil5ug6qvs3c3kluk19jd779i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwemdIMw_pmB2DkIWWXwh1i6NaoBapqss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117266937226-jkquqibil5ug6qvs3c3kluk19jd779i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
